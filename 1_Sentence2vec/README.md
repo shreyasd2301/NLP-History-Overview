@@ -1,3 +1,4 @@
+https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d
 # Unsupervised models
 - Word mover's distance: [paper](http://proceedings.mlr.press/v37/kusnerb15.pdf), [gensim example](https://markroxor.github.io/gensim/static/notebooks/WMD_tutorial.html)
 - [Extension of BOW based on word2vec](https://www.zhihu.com/question/29978268/answer/55338644): The sentence vector contains top 10 word vector similarity between each word of the sentence and the vocabulary.
